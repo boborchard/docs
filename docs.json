@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "StrataEMR Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#e57c03",
+    "light": "#e57c03",
+    "dark": "#e57c03"
   },
   "favicon": "/favicon.svg",
   "navigation": {
