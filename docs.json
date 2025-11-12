@@ -4,8 +4,8 @@
   "name": "StrataEMR Documentation",
   "colors": {
     "primary": "#e57c03",
-    "light": "#003F5A",
-    "dark": "#2B678D"
+    "light": "#2B678D",
+    "dark": "#003F5A"
   },
   "favicon": "/favicon.svg",
   "navigation": {
